@@ -1,7 +1,7 @@
-    # 📘 Resumo Completo – Introdução ao Python + Conceitos Iniciais
+# 📘 Resumo Completo – Introdução ao Python + Conceitos Iniciais
 
 ## 🐍 Introdução ao Python
-Python é uma linguagem de programação de alto nível, interpretada, multiplataforma e de propósito geral, focada em simplicidade, legibilidade e produtividade. :contentReference[oaicite:0]{index=0}  
+Python é uma linguagem de programação de alto nível, interpretada, multiplataforma e de propósito geral, focada em simplicidade, legibilidade e produtividade.
 
 É muito utilizada tanto por iniciantes quanto por profissionais, pois permite escrever códigos claros e eficientes.
 
@@ -36,7 +36,7 @@ print("Olá, mundo!")
 
 ## ⚙️ Conceitos Iniciais de Programação
 
-O objetivo é entender a base da linguagem e criar programas simples. :contentReference[oaicite:1]{index=1}  
+O objetivo é entender a base da linguagem e criar programas simples.
 
 ### Estrutura do Programa
 - Execução de cima para baixo  
@@ -99,17 +99,18 @@ altura = float(input())
 ---
 
 ### Operadores Aritméticos
-+ soma  
-- subtração  
-* multiplicação  
-/ divisão  
-// divisão inteira  
-% resto  
-** potência  
+- `+` → soma
+- `-` → subtração
+- `*` → multiplicação
+- `/` → divisão
+- `//` → divisão inteira
+- `%` → resto
+- `**` → potência
 
 Exemplo:
 a = 10  
 b = 3  
+
 print(a + b)  
 print(a * b)  
 print(a ** b)  
